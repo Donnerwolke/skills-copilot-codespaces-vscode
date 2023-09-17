@@ -39,3 +39,4 @@ function skillMember() {
     var memberList37 = document.getElementById("memberList37");
     var memberList38 = document.getElementById("memberList38");
 }
+;
